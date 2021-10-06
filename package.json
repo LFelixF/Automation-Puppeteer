@@ -1,0 +1,14 @@
+{
+  "name": "auto-pje",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lucas Felix Freitas",
+  "license": "ISC"
+}
